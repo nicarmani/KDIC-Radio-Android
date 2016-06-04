@@ -10,7 +10,7 @@ Description: A PHP script to parse the schedule for KDIC shows, represented in
 header ( 'Content-type: text/json; charset=utf-8' );
 
 // URL of HTML page with the schedule (which is an HTML table)
-$SCHEDULE_URL = 'http://kdic.grinnell.edu/?page_id=118';
+$SCHEDULE_URL = 'http://amistadfmvh.ml/test/';
 
 
 // parse html
