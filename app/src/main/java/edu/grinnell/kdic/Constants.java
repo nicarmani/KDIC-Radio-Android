@@ -17,8 +17,8 @@ public abstract class Constants {
     public static final String JSON_DATA = "data";
 
     public static final String DAY = "day";
-    public static final String[] DAYS_OF_WEEK = {"Monday", "Tuesday", "Wednesday", "Thursday",
-            "Friday", "Saturday", "Sunday"};
+    public static final String[] DAYS_OF_WEEK = {"Lunes", "Martes", "Miercoles", "Jueves",
+            "Viernes", "Sabado", "Domingo"};
 
 
 }
